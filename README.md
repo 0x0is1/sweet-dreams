@@ -58,6 +58,10 @@ Command line interface to watch your childhood shows in hindi and english, desig
 ## Contribution
 Please consider submitting issue, pull requests, and feedbacks
 
+## Contributors (specially thankful)
+* [Kyrus](https://github.com/ShrimantaGarain)
+* [Surya](https://github.com/0x0is1)
+
 ### **Support authors**:
 
 [![Donate](https://raw.githubusercontent.com/0x0is1/inproject-asset-container/master//default-pink.png)](https://www.buymeacoffee.com/6dciIwk)
