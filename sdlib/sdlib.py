@@ -93,5 +93,5 @@ def fetch_data(url):
     return file_url, title
 
 
-def play(file_url, title): 
-    os.system(f"ffplay '{file_url}' -window_title '{title}'")
+def play(file_url, title):
+    os.system(f'ffplay "{file_url}" -window_title "{title}"')
